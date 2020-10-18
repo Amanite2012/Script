@@ -1,0 +1,2 @@
+# Script
+Small Scripts storage
