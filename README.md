@@ -4,6 +4,7 @@ So basically, you will find some explanations and some really easy scripts here.
 
 # Scripts
 ## search_sort.ps
+This script is made for the PowerShell of Windows
 This script will:
 - Search every repository for every file;
 - Will list the found files in the [output_file] and will sort them according to thei extension;
