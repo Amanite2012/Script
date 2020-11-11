@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-11T11:26:00.811Z" agent="5.0 (Windows)" etag="C-vx2StbaqtoWA-P4hRb" version="13.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-11T14:06:53.126Z" agent="5.0 (Windows)" etag="U0r1N_Lz-Cv14t9HlbgU" version="13.9.6" type="github">
   <diagram id="SOVk1TfJtFDO8fkZRAg2" name="Page-1">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="SjrpTv4pFNnKmY8m8KMZ-5" value="The set of &lt;b&gt;Natural numbers&lt;/b&gt; for standard addition and multiplication is a semiring which is not a ring: if you take 1 for instance, any other natural number you add to it will give something &amp;gt; 0. In particular 1 cannot have an opposite element (it&#39;s the case of many others). It does however, stisfy alll axioms of being a ring execpt this one. Which makes it a semiring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="120" width="260" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="SjrpTv4pFNnKmY8m8KMZ-6" value="&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;b&gt;What a ring is:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;A semiring, is nearly a ring except for the fact that its elements don&#39;t have opposites for addition&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="SjrpTv4pFNnKmY8m8KMZ-6" value="&lt;div style=&quot;font-size: 16px&quot; align=&quot;left&quot;&gt;&lt;b&gt;What a ring is:&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A ring is a tripplet (A, x, .) that is composed:&lt;/div&gt;&lt;div&gt;- Of a neutral element for the addition and the multiplication;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- Of 2 binary operations A x A -&amp;gt; A + and . called multiplication and addition;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="20" y="350" width="250" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SjrpTv4pFNnKmY8m8KMZ-7" value="Rings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -47,7 +47,7 @@
             <mxPoint x="440" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SjrpTv4pFNnKmY8m8KMZ-12" value="The set of &lt;b&gt;Natural numbers&lt;/b&gt; fro standard addition and multiplication is a semiring which is not a ring: if you take 1 for instance, any other natural number you add to it will give something &amp;gt; 0. In particular 1 cannot have an opposite element (it&#39;s the case of many others). It does however, stisfy alll axioms of being a ring execpt this one. Which makes it a semiring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="SjrpTv4pFNnKmY8m8KMZ-12" value="The set of &lt;b&gt;Real Numbers (R)&amp;nbsp; &lt;/b&gt;is a ring" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="350" width="260" height="170" as="geometry" />
         </mxCell>
       </root>
